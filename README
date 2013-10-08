@@ -1,12 +1,7 @@
 DESCRIPTION OF CONTAINED FILES
 
-- the files in this directory are the project as defined by the spec.
-
 - to execute the hamming file, simply type:
 
 		% ./hamming
 
   and enter the 4 digit hexadecimal value followed by a carriage return
-
-- the files in the directory "hamming-bfck" are for a supplementary project that
-  implements a hamming code generator in the language "brainf*ck"
